@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="37" started-at="2019-08-27T17:40:19Z" finished-at="2019-08-27T17:40:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="37" started-at="2019-08-27T17:40:19Z" finished-at="2019-08-27T17:40:19Z">
+      <class name="testFeature.AppLoginFeatureTest">
+        <test-method status="PASS" signature="test1()[pri:0, instance:testFeature.AppLoginFeatureTest@56f4468b]" name="test1" duration-ms="8" started-at="2019-08-27T17:40:19Z" finished-at="2019-08-27T17:40:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- testFeature.AppLoginFeatureTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
